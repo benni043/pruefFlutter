@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      "spaghetti",
+      "ground beef",
+      "onion",
+      "garlic",
+      "tomato sauce",
+      "oregano",
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "In a pan, sauté chopped onion and garlic until golden.",
+      "Add ground beef and cook until browned.",
+      "Pour in tomato sauce and season with oregano, salt, and pepper.",
+      "Simmer for 15-20 minutes.",
+      "Serve the sauce over cooked spaghetti."
+    ]
+  },
+  {
+    "name": "Chicken Caesar Salad",
+    "ingredients": [
+      "chicken breast",
+      "romaine lettuce",
+      "croutons",
+      "parmesan cheese",
+      "Caesar dressing"
+    ],
+    "steps": [
+      "Grill or cook chicken until fully cooked.",
+      "Chop romaine lettuce into bite-sized pieces.",
+      "Slice cooked chicken into strips.",
+      "Toss lettuce, croutons, chicken, and parmesan cheese together in a bowl.",
+      "Drizzle with Caesar dressing and toss until well coated.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "name": "Vegetable Stir Fry",
+    "ingredients": [
+      "broccoli",
+      "carrots",
+      "bell peppers",
+      "snow peas",
+      "tofu",
+      "soy sauce",
+      "sesame oil",
+      "ginger",
+      "garlic"
+    ],
+    "steps": [
+      "Cut tofu into cubes and stir-fry until golden brown.",
+      "Add chopped vegetables to the pan and sauté until tender-crisp.",
+      "Mix soy sauce, sesame oil, minced ginger, and garlic in a bowl.",
+      "Pour the sauce over the vegetables and tofu.",
+      "Stir-fry for an additional 2-3 minutes.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Margherita Pizza",
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "fresh mozzarella",
+      "fresh basil leaves",
+      "olive oil",
+      "salt"
+    ],
+    "steps": [
+      "Preheat the oven to 475°F (245°C).",
+      "Roll out the pizza dough on a floured surface.",
+      "Spread tomato sauce over the dough.",
+      "Top with slices of fresh mozzarella and sprinkle with salt.",
+      "Bake for 12-15 minutes or until the crust is golden and the cheese is melted.",
+      "Remove from the oven, garnish with fresh basil, and drizzle with olive oil."
+    ]
+  },
+  {
+    "name": "Vegetarian Chili",
+    "ingredients": [
+      "kidney beans",
+      "black beans",
+      "corn",
+      "diced tomatoes",
+      "onion",
+      "bell peppers",
+      "chili powder",
+      "cumin",
+      "garlic powder"
+    ],
+    "steps": [
+      "In a large pot, sauté chopped onions and bell peppers until softened.",
+      "Add diced tomatoes, kidney beans, black beans, and corn.",
+      "Season with chili powder, cumin, and garlic powder.",
+      "Simmer for 20-30 minutes, stirring occasionally.",
+      "Serve hot, optionally topped with shredded cheese and a dollop of sour cream."
+    ]
+  },
+  {
+    "name": "Lemon Garlic Roast Chicken",
+    "ingredients": [
+      "whole chicken",
+      "lemons",
+      "garlic cloves",
+      "rosemary",
+      "olive oil",
+      "salt",
+      "black pepper"
+    ],
+    "steps": [
+      "Preheat the oven to 375°F (190°C).",
+      "Rinse and pat dry the whole chicken.",
+      "Rub the chicken with olive oil, salt, and black pepper.",
+      "Stuff the cavity with lemon wedges, garlic cloves, and fresh rosemary.",
+      "Roast in the oven for 1.5 to 2 hours or until the internal temperature reaches 165°F (74°C).",
+      "Let it rest for 10 minutes before carving."
+    ]
+  },
+  {
+    "name": "Shrimp and Broccoli Stir Fry",
+    "ingredients": [
+      "shrimp",
+      "broccoli",
+      "soy sauce",
+      "hoisin sauce",
+      "ginger",
+      "garlic",
+      "sesame oil",
+      "green onions"
+    ],
+    "steps": [
+      "In a wok or skillet, stir-fry shrimp in sesame oil until pink and opaque.",
+      "Add chopped broccoli and sauté until tender-crisp.",
+      "Mix soy sauce, hoisin sauce, minced ginger, and garlic in a bowl.",
+      "Pour the sauce over the shrimp and broccoli, tossing to coat.",
+      "Cook for an additional 2-3 minutes until heated through.",
+      "Garnish with chopped green onions and serve over rice."
+    ]
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "ingredients": [
+      "all-purpose flour",
+      "baking soda",
+      "butter",
+      "granulated sugar",
+      "brown sugar",
+      "vanilla extract",
+      "eggs",
+      "chocolate chips",
+      "salt"
+    ],
+    "steps": [
+      "Preheat the oven to 375°F (190°C) and line baking sheets with parchment paper.",
+      "In a bowl, cream together softened butter, granulated sugar, and brown sugar.",
+      "Beat in eggs one at a time and add vanilla extract.",
+      "In a separate bowl, whisk together flour, baking soda, and salt.",
+      "Gradually add the dry ingredients to the wet ingredients, then fold in chocolate chips.",
+      "Drop rounded tablespoons of dough onto the prepared baking sheets and bake for 10-12 minutes or until golden brown."
+    ]
+  }
+]
